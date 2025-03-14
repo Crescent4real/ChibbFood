@@ -16,6 +16,10 @@ body {
   padding: 90px 0;
 }
 
+.detail-box h1{
+  font-family: sans-serif;
+}
+
 .layout_padding2 {
   padding: 75px 0;
 }
